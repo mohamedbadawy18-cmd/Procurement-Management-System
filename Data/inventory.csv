@@ -1,0 +1,37 @@
+Product_ID,Product_Name,Category,Reorder_Threshold,Stock_Level
+P2000,Steel Sheets,Raw Materials,225,621
+P2001,Aluminum Rods,Raw Materials,2316,2984
+P2002,Copper Wire,Raw Materials,623,1902
+P2003,PVC Pipes,Raw Materials,441,729
+P2004,Industrial Bolts,Raw Materials,116,81
+P2005,Welding Rods,Raw Materials,124,190
+P2006,Galvanized Pipes,Raw Materials,99,315
+P2007,Cardboard Boxes,Packaging,1117,2684
+P2008,Plastic Wrap,Packaging,432,976
+P2009,Pallets,Packaging,598,1471
+P2010,Shrink Film,Packaging,70,117
+P2011,Packing Tape,Packaging,3123,5970
+P2012,Foam Inserts,Packaging,1021,751
+P2013,Circuit Breakers,Electrical,140,324
+P2014,Cable Trays,Electrical,120,80
+P2015,LED Fixtures,Electrical,124,289
+P2016,Power Cables,Electrical,170,377
+P2017,Junction Boxes,Electrical,333,182
+P2018,Transformers,Electrical,268,411
+P2019,Safety Helmets,Safety Equipment,185,129
+P2020,Work Gloves,Safety Equipment,480,251
+P2021,Safety Vests,Safety Equipment,117,233
+P2022,Goggles,Safety Equipment,157,110
+P2023,Ear Protection,Safety Equipment,206,315
+P2024,First Aid Kits,Safety Equipment,271,185
+P2025,Lubricants,Maintenance Supplies,770,1566
+P2026,Filters,Maintenance Supplies,170,401
+P2027,Gaskets,Maintenance Supplies,327,664
+P2028,Bearings,Maintenance Supplies,413,719
+P2029,Hydraulic Hoses,Maintenance Supplies,83,263
+P2030,Industrial Cleaners,Maintenance Supplies,485,1573
+P2031,Printer Paper,Office & IT,122,283
+P2032,Toner Cartridges,Office & IT,100,339
+P2033,Office Chairs,Office & IT,2309,3717
+P2034,Desktop Computers,Office & IT,2842,5380
+P2035,Network Switches,Office & IT,827,1835

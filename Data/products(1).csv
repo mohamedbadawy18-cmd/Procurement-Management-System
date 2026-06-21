@@ -1,0 +1,37 @@
+Product_ID,Product_Name,Category,Unit_Price
+P2000,Steel Sheets,Raw Materials,278.46
+P2001,Aluminum Rods,Raw Materials,123.25
+P2002,Copper Wire,Raw Materials,563.17
+P2003,PVC Pipes,Raw Materials,380.11
+P2004,Industrial Bolts,Raw Materials,141.53
+P2005,Welding Rods,Raw Materials,421.38
+P2006,Galvanized Pipes,Raw Materials,75.79
+P2007,Cardboard Boxes,Packaging,109.57
+P2008,Plastic Wrap,Packaging,34.76
+P2009,Pallets,Packaging,81.19
+P2010,Shrink Film,Packaging,40.85
+P2011,Packing Tape,Packaging,64.81
+P2012,Foam Inserts,Packaging,67.87
+P2013,Circuit Breakers,Electrical,301.74
+P2014,Cable Trays,Electrical,1455.29
+P2015,LED Fixtures,Electrical,1169.45
+P2016,Power Cables,Electrical,1411.06
+P2017,Junction Boxes,Electrical,1345.4
+P2018,Transformers,Electrical,908.91
+P2019,Safety Helmets,Safety Equipment,138.91
+P2020,Work Gloves,Safety Equipment,20.57
+P2021,Safety Vests,Safety Equipment,35.83
+P2022,Goggles,Safety Equipment,14.42
+P2023,Ear Protection,Safety Equipment,54.2
+P2024,First Aid Kits,Safety Equipment,63.19
+P2025,Lubricants,Maintenance Supplies,173.74
+P2026,Filters,Maintenance Supplies,499.81
+P2027,Gaskets,Maintenance Supplies,223.7
+P2028,Bearings,Maintenance Supplies,179.35
+P2029,Hydraulic Hoses,Maintenance Supplies,332.48
+P2030,Industrial Cleaners,Maintenance Supplies,97.44
+P2031,Printer Paper,Office & IT,966.59
+P2032,Toner Cartridges,Office & IT,107.97
+P2033,Office Chairs,Office & IT,1184.53
+P2034,Desktop Computers,Office & IT,931.25
+P2035,Network Switches,Office & IT,254.48
